@@ -1,0 +1,14 @@
+class AppAssetTexts {
+  static const String mercuryDetails =
+      "Mercury—the smallest planet in our solar system and nearest to the Sun—is only slightly larger than Earth's Moon. Its surface is covered in tens of thousands of impact craters. From the surface of Mercury, the Sun would appear more than three times as large as it does when viewed from Earth, and the sunlight would be as much as 11 times brighter. Despite its proximity to the Sun, Mercury is not the hottest planet in our solar system— that title belongs to nearby Venus, thanks to its dense atmosphere. But Mercury is the fastest planet, zipping around the Sun every 88 Earth days. Mercury is appropriately named for the swiftest of the ancient Roman gods.";
+  static const String venusDetails =
+      "Venus is the second planet from the Sun. It is named after the Roman goddess of love and beauty. As the second-brightest natural object in the night sky after the Moon, Venus can cast shadows and can rarely be visible to the naked eye in daylight. Venus lies within Earth's orbit and never appears to venture far from the Sun.";
+  static const String earthDetails =
+      "Earth is the third planet from the Sun and the only astronomical object known to be inhabited. Earth formed over 4.5 billion years ago. Earth's gravity interacts with other objects in space, especially the Sun and the Moon, which is it’s only natural satellite. Earth orbits around the Sun in about 365.25 days. \n Earth's axis of rotation is tilted with respect to its orbital plane, producing seasons on Earth. The gravitational interaction between Earth and the Moon causes tides, stabilizes Earth's orientation on its axis, and gradually slows its rotation. \n Earth is the densest planet in the Solar System and the largest and most massive of the four; rocky planets.";
+  static const String marsDetails =
+      "Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System. \n In English, Mars carries the name of the Roman god of war and is referred to as the Red Planet. \n The iron oxide is prevalent on Mars's surface, which gives it a reddish appearance distinctive among the astronomical bodies.";
+  static const String jupiterDetails =
+      "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass one-thousandth that of the Sun. Jupiter is one of the brightest objects visible to the naked eye in the night sky and has been known to ancient civilizations since before recorded history. It is named after the Roman god Jupiter.";
+  static const String saturnDetails =
+      "Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine times that of Earth. It only has one-eighth the average density of Earth. Saturn is named after the Roman god of wealth and agriculture.";
+}
